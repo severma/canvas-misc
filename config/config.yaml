@@ -1,0 +1,9 @@
+base_url_test: https://yale2.test.instructure.com
+## test api token with admin access
+api_key_test: {API_TOKEN}
+
+base_url_prod: https://yale.instructure.com
+## prod api token with admin access
+api_key_prod:  {API_TOKEN}
+
+per_page: 150
